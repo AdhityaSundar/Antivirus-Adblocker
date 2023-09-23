@@ -1,4 +1,4 @@
-# Adithya's Adblocker Chrome Extension
+# Adhitya's Adblocker Chrome Extension
 
 ## Overview
 
@@ -13,7 +13,7 @@ This Adblocker is a lightweight Chrome extension designed to block advertisement
 
 ## Installation
 
-To install Adithya's Adblocker, follow these steps:
+To install Adhitya's Adblocker, follow these steps:
 
 1. Download the extension files or install it from the Chrome Web Store (if available).
 2. Open Google Chrome.
@@ -25,7 +25,7 @@ To install Adithya's Adblocker, follow these steps:
 
 ## Usage
 
-Once installed, Adithya's Adblocker runs in the background, automatically blocking ads on websites that match its predefined filter list. Here's how you can use it:
+Once installed, Adhitya's Adblocker runs in the background, automatically blocking ads on websites that match its predefined filter list. Here's how you can use it:
 
 - **Enable/Disable:** Click on the extension icon in the Chrome toolbar to enable or disable ad-blocking for the current website.
 - **Settings:** Right-click the extension icon and select "Options" to access extension settings, where you can manage filters and customize your ad-blocking experience.
