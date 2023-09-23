@@ -4,12 +4,16 @@
 
 This Adblocker is a lightweight Chrome extension designed to block advertisements and enhance your browsing experience. This extension uses a set of predefined filters to prevent ads from displaying on web pages. It's a valuable tool for users who want a cleaner and more focused browsing experience.
 
+
+<img width="358" alt="Screenshot 2023-09-23 at 10 48 16 AM" src="https://github.com/alisonqiu/Adithya-Adblocker/assets/90943803/3f331433-aa2a-42f4-8760-30ab0907b859">
+
 ## Features
 
 - Blocks ads from common advertising networks.
 - Improves webpage loading times by eliminating unnecessary ad content.
 - Customizable filters to whitelist or blacklist specific websites.
 - Easy-to-use popup interface for managing extension settings.
+<img width="437" alt="Screenshot 2023-09-23 at 10 48 21 AM" src="https://github.com/alisonqiu/Adithya-Adblocker/assets/90943803/082aae78-1766-43a7-afd5-97463ac7edc3">
 
 ## Installation
 
