@@ -9,6 +9,16 @@ const defaultFilters = [
 	"*://*.quantserve.com/*",
 	"*://*.scorecardresearch.com/*",
 	"*://*.zedo.com/*",
+	"*://*.advertising.com/*",
+    "*://*.adnxs.com/*",
+    "*://*.adsrvr.org/*",
+    "*://*.pubmatic.com/*",
+    "*://*.criteo.com/*",
+    "*://*.taboola.com/*",
+    "*://*.outbrain.com/*",
+    "*://*.revcontent.com/*",
+    "*://*.taboola.com/*",
+    "*://*.taboola.com/*",
 ]
 
 
