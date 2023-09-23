@@ -1,0 +1,9 @@
+/**
+//  It provides information about the extension, 
+//such as its name, version, description, permissions, 
+//background scripts, and icons. The manifest_version 
+// indicates that it 
+//follows version 2 of the Chrome extension manifest format.
+
+
+icons: https://www.iconarchive.com/show/ios7-icons-by-icons8/Logos-System-Report-icon.html
